@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": "c250",
+      "userId": "d152985a-10ed-43ca-b009-45d6550e369b",
+      "first_name": "Portia",
+      "last_name": "Mashaba",
+      "email": "pnpnelly@gmail.com",
+      "password": "123",
+      "description": "I am a hard worker, a problem solver, and a solution-oriented person. "
+    },
+    {
+      "id": "9224",
+      "userId": "6622c8fa-b858-40a8-a596-9d340049b2e1",
+      "first_name": "Portia",
+      "last_name": "Mashaba",
+      "email": "pnpnelly@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "7436",
+      "userId": "ac7aa1e1-9fc7-4002-8854-759d7786da6b",
+      "first_name": "Palesa",
+      "last_name": "Msiza",
+      "email": "palesa@gmail.com",
+      "password": "123"
+    }
+  ],
+  "logout": [
+    {
+      "id": "8ff6"
+    },
+    {
+      "id": "833a"
+    },
+    {
+      "id": "cf39"
+    },
+    {
+      "id": "fd5c"
+    },
+    {
+      "id": "1fc8"
+    }
+  ],
+  "profile": [
+    {
+      "bio": "",
+      "id": ""
+    }
+  ],
+  "shoppingList": [
+    {
+      "id": "6179",
+      "item": "Oil",
+      "quantity": "2",
+      "unit": "liters",
+      "category": "other",
+      "userId": "7436"
+    },
+    {
+      "id": "7cea",
+      "item": "Sugar",
+      "quantity": "2",
+      "unit": "kg",
+      "category": "other",
+      "userId": "7436"
+    },
+    {
+      "id": "137d",
+      "item": "Lotion",
+      "quantity": "5",
+      "unit": "pack",
+      "category": "other",
+      "userId": "7436"
+    },
+    {
+      "id": "797b",
+      "item": "Juice",
+      "quantity": "5",
+      "unit": "liters",
+      "category": "",
+      "userId": "7436"
+    },
+    {
+      "id": "c38f",
+      "item": "youghurt",
+      "quantity": "3",
+      "unit": "liters",
+      "category": "dairy",
+      "userId": "7436"
+    },
+    {
+      "item": "Banana",
+      "quantity": "3",
+      "unit": "pack",
+      "category": "fruits",
+      "userId": "c250",
+      "id": "af6b"
+    },
+    {
+      "id": "b5cb",
+      "item": "blankets",
+      "quantity": "1",
+      "unit": "units",
+      "category": "other",
+      "userId": "c250",
+      "purchased": true
+    },
+    {
+      "id": "ac86",
+      "item": "water",
+      "quantity": "2",
+      "unit": "liters",
+      "category": "other",
+      "userId": "7436",
+      "purchased": true
+    },
+    {
+      "id": "6931",
+      "item": "Car",
+      "quantity": "1",
+      "unit": "units",
+      "category": "other",
+      "userId": "c250"
+    }
+  ]
+}
